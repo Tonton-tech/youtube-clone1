@@ -1,0 +1,142 @@
+body{
+    width: 100%;
+    height: 100vh;
+    padding: 0;
+    font-family: serif;
+
+}
+
+
+#main{
+    width: 100%;
+    height: 12vh;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+margin: 0;
+padding: 0;
+
+}
+
+
+
+
+
+#topbar-logo-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    width: 100%;
+    height: 50%;
+    padding: 0;
+    margin: 0;
+}
+
+#menu{
+    width: 1.8em;
+    font-size: 1.8em;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+  
+div #logo{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    width: 4em;
+    font-size: 1.8em;
+}
+
+#topbar-search-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+    padding: 0;
+    margin: 0;
+}
+
+#seacrh{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    width: 5.8em;
+    font-size: 1.8em;
+}
+
+#btn{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    width: 6em;
+    font-size: 1.8em;
+    cursor: pointer;
+}
+
+#topbar-right{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    width: 50%;
+    height: 50%;
+    padding: 0;
+    margin: 0;
+}
+
+
+.video{
+    width: 1.8em;
+    font-size: 1.8em;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+.sqr{
+    width: 1.8em;
+    font-size: 1.8em;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+.tst{
+    width: 1.8em;
+    font-size: 1.8em;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+.three{
+    width: 1.8em;
+    font-size: 1.8em;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+.log{
+    width: 1.8em;
+    font-size: 1.8em;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
